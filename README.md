@@ -36,7 +36,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                                           |
 | --------- | ------------ | --------- | --------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. basic Docker commands (`ps`, `images`, `pull`) |
+| 1         | 🐳 Docker Basics Lab — Inspect Containers, Images, Run Containers, and Clean Up the Host | 📂 [Repo](https://github.com/1suleyman/-Docker-Basics-Lab-Inspect-Containers-Images-Run-Containers-and-Clean-Up-the-Host) | Docker versioning, container lifecycle, image management, detached mode, partial IDs, prune cleanup commands |
 
 ---
 
