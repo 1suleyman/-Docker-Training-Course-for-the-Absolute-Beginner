@@ -103,4 +103,3 @@ By completing this course, I’ll gain practical experience in:
 | --------- | ------------ | --------- | ---------------------- |
 | 1         | Coming soon… | 📂 [Repo]() | e.g. course wrap-up    |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. YAML introduction |
-| 3         | Coming soon… | 📂 Folder | e.g. YAML labs         |
