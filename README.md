@@ -44,8 +44,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                                          |
 | --------- | ------------ | --------- | -------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. running containers                            |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. Jenkins image reference                       |
+| 1         | 🐳 Docker Run Commands Lab — Inspect Ports, Images, and Run Containers with Custom Mappings | 📂 [Repo](https://github.com/1suleyman/-Docker-Run-Commands-Lab-Inspect-Ports-Images-and-Run-Containers-with-Custom-Mappings/tree/main) | Container inspection, port mapping `-p`, identifying images, exposed vs published ports, custom container naming |
 
 ---
 
