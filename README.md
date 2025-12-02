@@ -54,7 +54,7 @@ By completing this course, I’ll gain practical experience in:
 | --------- | ------------ | --------- | ---------------------------------- |
 | 1         | 🐳 Docker Images & Dockerfile Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Images-Dockerfile-Lab/tree/main) | Image inspection, Dockerfile analysis, build & run, port publishing, debugging COPY/WORKDIR issues, Alpine optimisation |
 | 2         | 🐳 Docker Environment Variables Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Environment-Variables-Lab/tree/main) | Env vars inspection, `-e` flags, Docker inspect, MySQL root password setup, port mapping, container verification |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. labs for image building       |
+| 3         | 🐳 Docker Commands vs ENTRYPOINT Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Commands-vs-ENTRYPOINT-Lab/tree/main) | Inspecting Dockerfiles, understanding ENTRYPOINT vs CMD, determining final startup commands, overriding CMD with docker run, analyzing MySQL/WordPress/Ubuntu image behaviour |
 
 ---
 
