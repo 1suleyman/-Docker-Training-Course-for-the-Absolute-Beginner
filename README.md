@@ -62,9 +62,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                      |
 | --------- | ------------ | --------- | ------------------------------ |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. using Docker Compose      |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. voting app demo           |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. voting app with Compose   |
+| 1         | 🐳 Docker Compose Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Compose-Lab/tree/main) | Multi-container setup, Docker Compose basics, linking services, writing docker-compose.yml, port mapping, container cleanup, docker run vs docker-compose up |
 
 ---
 
