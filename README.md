@@ -52,8 +52,8 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                          |
 | --------- | ------------ | --------- | ---------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. image fundamentals            |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. creating custom Docker images |
+| 1         | 🐳 Docker Images & Dockerfile Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Images-Dockerfile-Lab/tree/main) | Image inspection, Dockerfile analysis, build & run, port publishing, debugging COPY/WORKDIR issues, Alpine optimisation |
+| 2         | 🐳 Docker Environment Variables Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Environment-Variables-Lab/tree/main) | Env vars inspection, `-e` flags, Docker inspect, MySQL root password setup, port mapping, container verification |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. labs for image building       |
 
 ---
