@@ -78,8 +78,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                            |
 | --------- | ------------ | --------- | ------------------------------------ |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. network basics, bridge networks |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. networking labs                 |
+| 1         | 🐳 Docker Networking Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Networking-Lab/tree/main) | Docker networks, docker network ls/inspect, default networks (bridge/host/none), custom bridge creation, subnet/gateway config, attaching containers to networks, inter-container DNS, MySQL + WebApp networking |
 
 ---
 
@@ -87,9 +86,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. pushing & pulling images |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. registry lab             |
-
+| 1         | 🐳 Docker Registry Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Registry-Lab/tree/main) | Private registry deployment, image tagging (SERVER/REPO:TAG), pushing & pulling images, registry API (/_catalog), docker image prune -a, running registry:2 with restart policy |
 
 ---
 
