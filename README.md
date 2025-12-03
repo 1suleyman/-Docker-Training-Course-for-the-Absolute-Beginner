@@ -70,8 +70,7 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill                     |
 | --------- | ------------ | --------- | ----------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. Docker Engine internals  |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. Docker storage & volumes |
+| 1         | 🐳 Docker Storage Lab | 📂 [Repo](https://github.com/1suleyman/-Docker-Storage-Lab/tree/main) | Docker storage internals, /var/lib/docker, bind mounts, volume persistence, MySQL data recovery, -v HOST:CONTAINER mapping, container crash recovery |
 
 ---
 
