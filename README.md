@@ -94,5 +94,4 @@ By completing this course, I’ll gain practical experience in:
 
 | Challenge | Title        | Link      | Key Skill              |
 | --------- | ------------ | --------- | ---------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. course wrap-up    |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. YAML introduction |
+| 1         | 📝 YAML Basics & Editing Lab | 📂 [Repo](https://github.com/1suleyman/-YAML-Basics-Editing-Lab/tree/main) | YAML syntax, dictionaries vs arrays, indentation rules, nested structures, arrays of dictionaries, editing YAML with vi, modifying structured data safely |
